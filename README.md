@@ -47,5 +47,9 @@ The benefits of using machine learning for personal loan approval are numerous. 
 
  In conclusion, machine learning has revolutionized the process of personal loan approval. Traditional banks, online lenders, fintech startups, credit unions, and peer-to-peer lending platforms can now analyze borrower data and credit scores to determine the likelihood of loan approval. This has led to more efficient and accurate lending, ultimately benefiting both lenders and borrowers. As technology continues to advance, we can expect to see even more innovative uses of machine learning in the financial industry. 
  Overall, machine learning has transformed the way personal loan approval is conducted. It has enabled lenders to analyze borrower data and credit scores more efficiently and accurately, leading to faster and more reliable lending decisions. This has resulted in benefits for both lenders and borrowers, including improved risk assessment, increased access to credit, and reduced costs. As technology continues to advance, it is likely that machine learning will play an even greater role in the financial industry, leading to further improvements in the lending process. 
- 
+
+# Acknowledgements
+Developed as part of B.Sc. Computer Science final year project to contribute towards predicting personal loan approval.
+
+
  
